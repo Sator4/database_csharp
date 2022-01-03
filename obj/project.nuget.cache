@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3Lmt/rz8+BccWx3zZFpKu9QMN/tHoZnmRqmYkqOoEY45suPe20QCwzc3xbexUVHjB3qBrPWF7zpKt7+QH1fkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\DataBaseApp\\DataBaseApp\\DataBaseApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
